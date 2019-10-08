@@ -1,0 +1,7 @@
+/Users/duanweidong/Documents/wkcpp/proto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/duanweidong/Documents/wkcpp/proto/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/duanweidong/Documents/wkcpp/proto/cmake-build-debug/CMakeFiles/read.dir
+/Users/duanweidong/Documents/wkcpp/proto/cmake-build-debug/CMakeFiles/proto.dir
+/Users/duanweidong/Documents/wkcpp/proto/cmake-build-debug/file/CMakeFiles/rebuild_cache.dir
+/Users/duanweidong/Documents/wkcpp/proto/cmake-build-debug/file/CMakeFiles/edit_cache.dir
+/Users/duanweidong/Documents/wkcpp/proto/cmake-build-debug/file/CMakeFiles/rwfile.dir

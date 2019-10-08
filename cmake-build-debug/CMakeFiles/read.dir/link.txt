@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/read.dir/read.cpp.o CMakeFiles/read.dir/hello.pb.cc.o  -o read -lpthread -lprotobuf 

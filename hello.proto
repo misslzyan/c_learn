@@ -1,0 +1,7 @@
+syntax = "proto2";
+
+package he;
+
+message hello {
+    required int32 id = 1;
+}
