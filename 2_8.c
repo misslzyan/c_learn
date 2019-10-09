@@ -6,11 +6,11 @@
 unsigned rightrot(unsigned int x , int n){
 	int i;
 	for(i=1;i<=n;i++){
-      int t = x&(~(~0<<1));
+      int t = x&1;
       x = x >>1;
       if(t==1)
       {
-      	x = ~(~0>>1)|x;
+      	x = ~(~0U>>1)|x;
       }
 	}
 	return x;
@@ -18,8 +18,8 @@ unsigned rightrot(unsigned int x , int n){
 
 int main()
 {
-	unsigned int x = 123;
-    x = rightrot(x, 5);
-    printf("%d\n", x);
+	unsigned int x = 2;
+    x = rightrot(x, 10);
+    printf("%u\n", x);
     return 0;
 }
